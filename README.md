@@ -1,6 +1,6 @@
-## Contato  ˊ•⌔•ˋ 
+[## Contato  ˊ•⌔•ˋ 
 
-|[Discord](http://discordapp.com/users/memataexe#9271)|[Github](https://github.com/memataexe/)|[LinkIn](https://www.linkedin.com/in/dexe/)|[Steam](https://steamcommunity.com/id/Memataexe/)|[Gmail](dexe.me12@gmail.com)|
+|[Discord](http://discordapp.com/users/memataexe#9271)|[Github](https://github.com/memataexe/)|[LinkIn](https://www.linkedin.com/in/dexe/)|[Steam](https://steamcommunity.com/id/Memataexe/)|[Instagram](https://www.instagram.com/memata.exe/)|
 |:-|:-|:-|:-|:--|
 ---
 
@@ -20,3 +20,4 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+](https://twitter.com/memataexe)
