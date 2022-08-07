@@ -1,3 +1,9 @@
+## Contato  ˊ•⌔•ˋ 
+
+|[Discord](http://discordapp.com/users/memataexe#9271)|[Github](https://github.com/memataexe/)|[LinkIn](https://www.linkedin.com/in/dexe/)|[Steam](https://steamcommunity.com/id/Memataexe/)|[Gmail](dexe.me12@gmail.com)|
+|:-|:-|:-|:-|:--|
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uWLJEGCSWdmvK/giphy.gif" width="300"/>
 </div>
